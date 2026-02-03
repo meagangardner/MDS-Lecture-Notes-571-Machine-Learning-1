@@ -5,7 +5,7 @@ logo: lectures/img/mds-hex-sticker.png
 exclude_patterns: ["release/*", "quiz_practice_questions/*", "*.py","*.json","*.db", "lecture_solutions/*"]
 
 repository:
-  url: https://github.ubc.ca/MDS-2024-25/DSCI_571_sup-learn-1_students
+  url: https://github.com/meagangardner/MDS-Lecture-Notes-571-Machine-Learning-1
 
 sphinx:
   config:
