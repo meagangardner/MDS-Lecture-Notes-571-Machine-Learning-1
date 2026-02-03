@@ -4,7 +4,7 @@ root: README
 parts: 
 - caption: Course Information
   chapters:   
-  - file: learning_objectives  
+  - file: learning__objectives  
 - caption: Notes
   chapters: 
   - file: lectures/notes/00_motivation-course-information.ipynb  
